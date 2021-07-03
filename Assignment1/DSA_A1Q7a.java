@@ -9,9 +9,11 @@ public class DSA_A1Q7a {
             int cst = 1;
             while(cst<=nst){
                 System.out.print("*   ");
-                cst++;;
-                id++;
+                cst++;
             }
+            System.out.println();
+            nst++;
+            id++;
         }
     }
 
