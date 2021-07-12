@@ -8,7 +8,7 @@ public class DSA_A1Q7a {
         while(id<=row){
             int cst = 1;
             while(cst<=nst){
-                System.out.print("*   ");
+                System.out.print(" * ");
                 cst++;
             }
             System.out.println();
